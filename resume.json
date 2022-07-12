@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "Kritansh Agarwal",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kuec2007@iiitkota.ac.in",
+        "phone": "+917891541995",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics And Communication engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Alwar",
+            "postalCode": "301001",
+            "city": "Alwar",
+            "countryCode": " India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "kritansh20ag",
+                "url": "https://twitter.com/Kritansh20ag"
+            },
+            {
+                "network": "Github",
+                "username": "kritansh20ag",
+                "url": "https://github.com/kritansh20ag"
+            },
+            {
+                "network": "linkedin",
+                "username": "kritansh agarwal",
+                "url": "https://www.linkedin.com/in/kritansh-agarwal/"
+            },
+            {
+                "network": "Instagram",
+                "username": "kritansh_20ag",
+                "url": "https://www.instagram.com/kritansh_20ag/?hl=en"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "7.81",
+            "courses": [
+                "Electronics and communication"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "Node",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C/C++",
+                "",
+                "Python",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "technology",
+            "keywords": [
+                "coding"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Badminton"
+            ]
+        }
+    ]
+}
